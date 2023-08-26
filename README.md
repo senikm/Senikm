@@ -1,4 +1,4 @@
-# Senik V. Matinyan :microscope: :computer:
+# Senik Matinyan :microscope: :computer:
 
 Hello! I'm Senik, an MD, Ph.D. student specializing in **Structural Biology** at the [Biozentrum, University of Basel](https://www.biozentrum.unibas.ch/).  I proudly hold an MD degree from [Yerevan State Medical University (YSMU)](https://ysmu.am/).
 
